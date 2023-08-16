@@ -10,8 +10,10 @@
 <h3> 📚 기술 스택 📚 </h3>
 
     Backend
-     - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, 
+     - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Batch
      - JPA, Hibernate, Querydsl, Mybatis
+     - Redis
+     - Kafka
      - Gradle, Maven
      - Intellij
     Monitoring
